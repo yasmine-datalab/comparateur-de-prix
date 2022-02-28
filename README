@@ -1,4 +1,4 @@
-Le présent projet e-compare est un site de comparateur de prix.
+Le présent projet e-compare est un site de comparaison de prix.
 Il prend en compte le produit recherché ainsi que le budget du client.
 Il renvoie au client les produits dont les  prix sont inférieurs ou égaux au budget.
 Il renvoie en 1er lieu le produit avec le meilleur prix et le produit avec la meilleure note et enfin les autres produits.  
@@ -14,3 +14,4 @@ EXECUTION:
 - pip install requirements.txt
 - Ensuite, installez les packages de nœuds dans le répertoire frontend : npm i
 - Ensuite, construisez les modules du nœud : npm run build
+- streamlit run scripts/
