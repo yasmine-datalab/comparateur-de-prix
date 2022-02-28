@@ -14,4 +14,4 @@ EXECUTION:
 - pip install requirements.txt
 - Ensuite, installez les packages de nœuds dans le répertoire frontend : npm i
 - Ensuite, construisez les modules du nœud : npm run build
-- streamlit run scripts/
+- streamlit run scripts/script.py
